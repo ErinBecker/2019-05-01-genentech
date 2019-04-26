@@ -6,7 +6,7 @@ venue: "Genentech"        # brief name of host site without address (e.g., "Euph
 address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "37.652106,-122.381991"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "May 1st-2nd, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-05-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -91,6 +91,23 @@ address.
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
+
+<p> Please note that this workshop will be held in different locations for each of the two days. The link above
+  shows directions for the first day's location. The complete location information is:
+
+Day 1:
+Genentech South Campus
+Building 42 - Room 42-1D
+475 East Grand Ave
+South San Francisco CA, 94080
+
+Day 2: 
+Genentech Gateway Campus
+Building 82 - Room 14G (Golden Gate)
+651 Gateway Blvd
+South San Francisco CA, 94080
+</p>
+
 {% endif %}
 
 {% comment %}
