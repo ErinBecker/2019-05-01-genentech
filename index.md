@@ -225,7 +225,23 @@ Wednesday, March 1st
 | Start | Instructor | Lesson |
 | ----- | ---------- | ------ |
 | 9:00 | Erin | Welcome and logistics |
-| 9:30 | Erin | | 
+| 9:30 | Erin | [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/index.html) | 
+| 9:45 | Erin | [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html) |
+| 10:30 | Coffee Break | |
+| 10:45 | Erin | [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html) |
+| 11:45 | Erin | [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html) |
+| 12:30 | Lunch | |
+| 1:30 | Erin | [Loops](http://swcarpentry.github.io/shell-novice/05-loop/index.html) |
+| 2:30 | Erin | [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html) | 
+| 3:30 | Coffee Break | | 
+| 3:45 | Thomas | [Analyzing Patient Data with Python](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/index.html) |
+| 5:00 | end | |
+
+Thursday, March 2nd
+
+| Start | Instructor | Lesson |
+| ----- | ---------- | ------ |
+
 
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
