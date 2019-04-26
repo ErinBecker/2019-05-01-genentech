@@ -93,7 +93,7 @@ address.
 </p>
 
 <p> Please note that this workshop will be held in different locations for each of the two days. The link above
-  shows directions for the first day's location. The complete location information is:
+  shows directions for the first day's location. The complete location information is:</p>
 
 <p>
 Day 1:<br> 
