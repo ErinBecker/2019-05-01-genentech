@@ -93,19 +93,22 @@ address.
 </p>
 
 <p> Please note that this workshop will be held in different locations for each of the two days. The link above
-  shows directions for the first day's location. The complete location information is:
+  shows directions for the first day's location. The complete location information is:</pr>
 
-Day 1:  
-Genentech South Campus  
-Building 42 - Room 42-1D  
-475 East Grand Ave  
-South San Francisco CA, 94080  
+<p>
+Day 1:<br> 
+Genentech South Campus<br>  
+Building 42 - Room 42-1D<br> 
+475 East Grand Ave<br> 
+South San Francisco CA, 94080<br> 
+</p>
 
-Day 2:   
-Genentech Gateway Campus  
-Building 82 - Room 14G (Golden Gate)  
-651 Gateway Blvd  
-South San Francisco CA, 94080  
+<p>
+Day 2:<br> 
+Genentech Gateway Campus<br> 
+Building 82 - Room 14G (Golden Gate)<br> 
+651 Gateway Blvd<br> 
+South San Francisco CA, 94080<br> 
 </p>
 
 {% endif %}
