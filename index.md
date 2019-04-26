@@ -241,6 +241,19 @@ Thursday, March 2nd
 
 | Start | Instructor | Lesson |
 | ----- | ---------- | ------ |
+| 9:00 | Erin | Feedback from yesterday | 
+| 9:15 | Thomas | [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/index.html) | 
+| 10:00 | Thomas | [Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists/index.html) | 
+| 10:45 | Coffee Break | | 
+| 11:00 | Thomas | [Analyzing Data from Multiple Files](http://swcarpentry.github.io/python-novice-inflammation/04-files/index.html) | 
+| 11:30 | Thomas | [Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/index.html) |
+| 12:30 | Lunch | | 
+| 1:30 | Thomas | [Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/index.html) |
+| 2:30 | Thomas | [Errors and Exceptions](http://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html)|
+| 3:15 | Coffee Break | | 
+| 3:30 | Erin | [Version Control with Git](http://swcarpentry.github.io/git-novice/) up through "Exploring History" | 
+| 4:50 | Erin | Wrap-up and surveys | 
+| 5:00 | end ||
 
 
 {% if page.collaborative_notes %}
